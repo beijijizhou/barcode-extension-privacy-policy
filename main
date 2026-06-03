@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barcode Scanner Extension Privacy Policy</title>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+
+    <p><strong>Last Updated:</strong> June 2026</p>
+
+    <h2>Overview</h2>
+    <p>
+        This Chrome extension is designed to assist authorized users with barcode scanning,
+        inventory tracking, quality control, and operational workflows.
+    </p>
+
+    <h2>Information We Collect</h2>
+    <p>The extension may collect and process the following information:</p>
+    <ul>
+        <li>User account information required for authentication.</li>
+        <li>Barcode data scanned through supported webpages.</li>
+        <li>Scan timestamps and related operational records.</li>
+        <li>Technical logs necessary for troubleshooting and system maintenance.</li>
+    </ul>
+
+    <h2>How We Use Information</h2>
+    <p>Collected information is used to:</p>
+    <ul>
+        <li>Record and process barcode scans.</li>
+        <li>Support inventory, logistics, and quality-control operations.</li>
+        <li>Authenticate authorized users.</li>
+        <li>Maintain, monitor, and improve system performance.</li>
+    </ul>
+
+    <h2>Data Storage</h2>
+    <p>
+        Barcode scan records and related operational information may be transmitted
+        securely to company-managed servers and stored in company databases for
+        business purposes.
+    </p>
+
+    <h2>Data Sharing</h2>
+    <p>
+        Information collected by this extension is not sold, rented, or shared with
+        third parties for marketing purposes. Data may be accessed only by authorized
+        personnel and service providers necessary to operate and maintain the system.
+    </p>
+
+    <h2>Data Security</h2>
+    <p>
+        Reasonable administrative, technical, and organizational measures are
+        implemented to protect collected information from unauthorized access,
+        disclosure, alteration, or destruction.
+    </p>
+
+    <h2>Data Retention</h2>
+    <p>
+        Information is retained only as long as necessary to support operational,
+        legal, or business requirements.
+    </p>
+
+    <h2>User Rights</h2>
+    <p>
+        Users may contact their system administrator or the organization operating
+        this extension regarding questions about their information.
+    </p>
+
+    <h2>Changes to This Policy</h2>
+    <p>
+        This Privacy Policy may be updated periodically. Changes will be posted on
+        this page with an updated revision date.
+    </p>
+
+    <h2>Contact Information</h2>
+    <p>
+        For questions regarding this Privacy Policy, please contact:
+    </p>
+
+    <p>
+        Email: haloowebsite@gmail.com
+    </p>
+</body>
+</html>
